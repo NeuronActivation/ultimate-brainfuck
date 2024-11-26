@@ -1,8 +1,8 @@
 # ultimate-brainfuck
 
-Ultimate brainfuck is an brainfuck variant with an evil twist.
+Ultimate brainfuck is a brainfuck variant with an evil twist.
 
-A counter is added to brainfuck programming. This counter starts from zero and increases by one for every character in the ultimate brainfuck program.
+A counter is added to brainfuck programming. This counter starts from zero and increases by one for every character in the Ultimate brainfuck program.
 
 Every character is moved times the value of the counter. So, a brainfuck program with fifty characters the last character would have to be moved fifty times.
 
