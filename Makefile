@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -std=c++20 -Wall -Wextra -pedantic
-TARGET = ultimate-brainfuck
-SRC = main.cc bf-interpreter.cc
+TARGET = ultimate_brainfuck
+SRC = main.cc bf_interpreter.cc
 
 all: $(TARGET)
 

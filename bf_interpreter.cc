@@ -1,4 +1,4 @@
-#include "bf-interpreter.hh"
+#include "bf_interpreter.hh"
 
 #include <cstdint>
 #include <iostream>

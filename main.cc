@@ -1,4 +1,4 @@
-#include "bf-interpreter.hh"
+#include "bf_interpreter.hh"
 
 #include <iostream>
 #include <fstream>
@@ -7,7 +7,7 @@
 #include <string>
 #include <cstring>
 
-const std::string ubf_file_extension = ".ultimate-brainfuck";
+const std::string ubf_file_extension = ".ultimate_brainfuck";
 const std::string ubf_valid_chars = "><+-.,[]";
 
 bool hasUbfExtension(const std::string& filename)
