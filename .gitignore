@@ -1,0 +1,4 @@
+*ultimate_brainfuck
+
+rust/target/
+rust/Cargo.lock
